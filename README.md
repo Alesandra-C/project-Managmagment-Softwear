@@ -10,13 +10,18 @@ Troubleshooting & Diagnostics: Skilled in resolving AD issues, including login a
 Backup & Recovery: Knowledgeable in creating backups and restoring AD configurations.
 
 Tools Used
+
 Oracle VirtualBox: Virtualization platform for creating test environments.
 Active Directory Domain Services (AD DS): Tool for setting up and managing the domain.
 PowerShell: Command-line tool for managing and automating AD tasks.
 Windows Server 2022: Enterprise-level server platform for building and managing Active Directory domains.
+<hr>
 
 Installing Virtual Machine
 First, create a Windows Server 2022 VM. Choose the "ISO image" option, select your Windows Server 2022 ISO, and ensure "Desktop Experience" is checked under the "Type" section in Oracle VirtualBox.
 
 <img src="https://imgur.com/R6Hd4qY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Image
+
+<hr>
+<h2> Project Managment Software "SLACK" </h2>
